@@ -1,4 +1,4 @@
-# Actividad 2 - Diaz Daniel E.
+# Actividad 3 Vuforia- Diaz Daniel E.
 
 ## Sobre el proyecto 📦
 
