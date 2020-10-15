@@ -1,0 +1,12 @@
+/Temp/
+*.sln
+*.userprefs
+*.csproj
+*.unityproj
+*.patch
+.vs
+/obj/
+/Builds/
+.idea
+/Library/
+
