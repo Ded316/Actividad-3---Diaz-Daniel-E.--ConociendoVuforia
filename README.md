@@ -2,26 +2,29 @@
 
 ## Sobre el proyecto 📦
 
-_En este proyecto se trabajó_
+_Este proyecto se desarrollo en su mayor parte siguiendo los instructivos dados por el docente_
 
-* Crear una escena a la cual se le agregó una textura
-* Colliders e interacción fisica
+* En una primera instancia para saber si funcionaba correctamente Vuforia, se agregó un target y una esfera. Al principio pensamos que no funcionaba ya que aparentemente no sucedia nada pero al usar un marcador pequeño y alejarnos lo suficiente pudimos hallar una gran esfera
 
-Por ejemplo, se agrega un script para que al colisionar con una plataforma se spawneen más esferas,
-además se agrega un material de fisica para que la misma rebote y
-al tener contacto con otra superficie cambie automaticamente su material.
+![esfera](img readme/1.jpg)
 
-![imagen](img readme/esfera_cambiando_material_y_rebotando.png)
+* Ahora trabajando solo, efectué el proximo paso sin seguir la guia dada por el docente, lo cual consistió en reducir considerablemente el tamaño de la esfera y asignarle el material obtenido de la descarga del Asset propuesto. Además añadí el script del asset que permite la rotacion y lo aceleré.
 
-También al hacer clic, se "disparan" nuevos objetos que tambien cumplen con la consigna de
-interaccion entre objetos ya que estos pueden modificar el curso de la esfera
-si llegan a tener contacto.
+![mundo](img readme/2.jpg)jpghora, siguiendo la guia dada por el docente agregué el prefab del asset con un tamaño apenas mayor que la esfera creada por mi y  sin eliminarla. Es así que experimente lo que seria ver a traves de otro objeto en RA ( ya que una esfera está dentro de otra). Entonces, si se enfoca de cerca, tendremos el mundo pequeño con una vista celeste por estar contenido en el mundo más grande el cual vemos recien al alejarnos del target.
 
-![imagen2](img readme/esfera_cambiando_material_y_rebotando_2.png)
+Además agregué una UI para finalizar la aplicacion.
 
-NOTA 🔧
+![mundoContenido](img readme/3.jpg)
+![mundoContinente](img readme/4.jpg)
 
-Por favor eliminar el proyecto homonimo de gitlab que está fuera de esta carpeta del grupo C
+## Despliegue 🚀
+
+_Para poder hacer el Build para Android es importante que en la instalación de Unity (a través de la selección de la versión que deseamos en Unity Hub) seleccionemos el soporte para Android Build, esto incluye la descarga de Android Studio, junto con su SDK, NDK y Gradle ._
+
+**Si no tenemos ( en Edit -> Preferences -> External Tools) la instalacion de unity por defecto NO funcionará**
+Para ello deben estar todos tildados. Caso contrario, dará error ( sitauacion que se dio con todos los integrantes de grupo)
+
+![mundoContinente](img readme/4.png)
 
 ## Expresiones de Gratitud 🎁
 
