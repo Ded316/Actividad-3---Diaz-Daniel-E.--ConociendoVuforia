@@ -24,7 +24,7 @@ _Para poder hacer el Build para Android es importante que en la instalación de 
 **Si no tenemos ( en Edit -> Preferences -> External Tools) la instalacion de unity por defecto NO funcionará**
 Para ello deben estar todos tildados. Caso contrario, dará error ( sitauacion que se dio con todos los integrantes de grupo)
 
-![mundoContinente](img Readme/4.png)
+![mundoContinente](img Readme/5.png)
 
 ## Expresiones de Gratitud 🎁
 
