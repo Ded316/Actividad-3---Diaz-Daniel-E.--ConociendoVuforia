@@ -1,4 +1,5 @@
 # Actividad 3 Vuforia- Diaz Daniel E.
+link al repo del curso (privado) https://gitlab.com/cacic-2020-ra/grupo-c
 
 ## Sobre el proyecto 📦
 
